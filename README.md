@@ -1,1 +1,1 @@
-# TKMT-UD_ComputerApplicationStatistics_HCMUS
+# TKMT-UD_ComputationalStatisticsApplications_HCMUS
